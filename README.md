@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="assets/crest.png" alt="Transparent Slytherin crest of Argyrys" width="130" />
+<img src="assets/crest-emerald.png" alt="Transparent Slytherin crest of Argyrys" width="130" />
 
 <br />
 
@@ -18,11 +18,11 @@
 
 <br /><br />
 
-<a href="#about"><img src="assets/nav-about.svg" alt="About" width="140" /></a>
-<a href="#stack"><img src="assets/nav-stack.svg" alt="Stack" width="140" /></a>
-<a href="#stats"><img src="assets/nav-stats.svg" alt="Stats" width="140" /></a>
-<a href="#work"><img src="assets/nav-work.svg" alt="Work" width="140" /></a>
-<a href="#links"><img src="assets/nav-links.svg" alt="Links" width="140" /></a>
+<a href="#user-content-about"><img src="assets/nav-about.svg" alt="About" width="140" /></a>
+<a href="#user-content-stack"><img src="assets/nav-stack.svg" alt="Stack" width="140" /></a>
+<a href="#user-content-stats"><img src="assets/nav-stats.svg" alt="Stats" width="140" /></a>
+<a href="#user-content-work"><img src="assets/nav-work.svg" alt="Work" width="140" /></a>
+<a href="#user-content-links"><img src="assets/nav-links.svg" alt="Links" width="140" /></a>
 
 <br /><br />
 
