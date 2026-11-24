@@ -119,3 +119,11 @@
 <p style="color:#7f8f84; font-size:12px;">Forged with a wand, a little green fire, and far too much coffee. ✦</p>
 
 </div>
+
+<div align="center" style="background-color:#0a1410;">
+<p style="color:#ff0000;">STYLE P TEST</p>
+<p><font color="#00ff00">FONT P TEST</font></p>
+<table bgcolor="#123456" width="400"><tr><td><font color="#ffcc00">TABLE TD TEST</font></td></tr></table>
+<h2 style="color:#ff00ff;"><font color="#00ffff">HEADING TEST</font></h2>
+<summary style="color:#ff0000;"><font color="#ff00ff">SUMMARY TEST</font></summary>
+</div>
