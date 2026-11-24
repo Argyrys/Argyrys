@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 290" width="240" height="290" role="img" aria-label="Original Slytherin-inspired serpent crest with the letter A">
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12402a"/>
+      <stop offset="0.55" stop-color="#0a2418"/>
+      <stop offset="1" stop-color="#040d08"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7e9b0"/>
+      <stop offset="0.5" stop-color="#c8aa6e"/>
+      <stop offset="1" stop-color="#8a6f37"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M120 10 L218 46 V142 C218 202 176 248 120 274 C64 248 22 202 22 142 V46 Z" fill="url(#shield)" stroke="url(#gold)" stroke-width="5"/>
+  <path d="M120 24 L204 55 V141 C204 193 168 234 120 258 C72 234 36 193 36 141 V55 Z" fill="none" stroke="#c8aa6e" stroke-opacity="0.5" stroke-width="1.5"/>
+
+  <text x="120" y="157" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="116" font-weight="700" fill="url(#gold)" opacity="0.95">A</text>
+
+  <path d="M64 216 C40 194 52 162 78 160 C106 158 116 132 94 120 C76 110 66 128 80 136" fill="none" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M64 216 C40 194 52 162 78 160 C106 158 116 132 94 120 C76 110 66 128 80 136" fill="none" stroke="#27ae60" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="82" cy="137" rx="14" ry="9" fill="#27ae60" stroke="url(#gold)" stroke-width="2.5" transform="rotate(-30 82 137)"/>
+  <circle cx="77" cy="134" r="2.2" fill="#f7e9b0"/>
+
+  <path d="M176 216 C200 194 188 162 162 160 C134 158 124 132 146 120 C164 110 174 128 160 136" fill="none" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M176 216 C200 194 188 162 162 160 C134 158 124 132 146 120 C164 110 174 128 160 136" fill="none" stroke="#27ae60" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="158" cy="137" rx="14" ry="9" fill="#27ae60" stroke="url(#gold)" stroke-width="2.5" transform="rotate(30 158 137)"/>
+  <circle cx="163" cy="134" r="2.2" fill="#f7e9b0"/>
+
+  <rect x="46" y="242" width="148" height="28" rx="4" fill="#071710" stroke="url(#gold)" stroke-width="2"/>
+  <text x="120" y="261" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="5" fill="#d4b779">SLYTHERIN</text>
+</svg>
