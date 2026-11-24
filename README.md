@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="assets/crest.svg" alt="Animated Slytherin shield crest with the letter A" width="130" />
+<img src="assets/crest.png" alt="Argyrys Slytherin crest" width="130" />
 
 <br />
 
