@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Argyrys — Keeper of the Code, House Slytherin" width="100%" />
+<img src="assets/banner.png" alt="Argyrys — Keeper of the Code, House Slytherin, with serpents coiling around the banner" width="100%" />
 
 <br />
 
