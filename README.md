@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="assets/crest.svg" alt="Original Slytherin-inspired serpent crest" width="130" />
+<img src="assets/crest.svg" alt="Animated Slytherin shield crest with the letter A" width="130" />
 
 <br />
 
