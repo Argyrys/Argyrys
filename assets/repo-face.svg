@@ -1,8 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 48" width="780" height="48" role="img" aria-label="Face-Recognition-System: vision magic and curious algorithms, Python">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 48" width="780" height="48" role="img" aria-label="Face-Recognition-System: vision magic and curious algorithms, Python; 0 stars, 0 forks">
   <rect x="1" y="1" width="778" height="46" rx="7" fill="#0a1410" stroke="#c8aa6e" stroke-opacity="0.7"/>
   <rect x="1" y="1" width="5" height="46" fill="#27ae60"/>
   <circle cx="28" cy="24" r="10" fill="#123a25" stroke="#c8aa6e"/>
   <circle cx="24" cy="21" r="2.2" fill="#f7e9b0"/><circle cx="32" cy="21" r="2.2" fill="#f7e9b0"/>
   <path d="M24 28 l4 4 4 -4 Z" fill="#d4af37"/>
   <text x="50" y="30" font-family="'Segoe UI', Arial, sans-serif" font-size="16"><tspan fill="#7fe3a8" font-weight="700">Face-Recognition-System</tspan><tspan fill="#b8c5bc"> — vision magic and curious algorithms (Python)</tspan></text>
+  <path d="M518 10 V38" stroke="#c8aa6e" stroke-opacity="0.35"/>
+  <g transform="translate(530 13)" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#93a89a">
+    <path d="M9 1.5 l2.2 4.5 5 0.7 -3.6 3.5 0.9 5 -4.5 -2.4 -4.5 2.4 0.9 -5 -3.6 -3.5 5 -0.7 Z" fill="none" stroke="#c8aa6e" stroke-width="1"/>
+    <text x="20" y="12">0</text>
+    <g transform="translate(48 0)">
+      <circle cx="6" cy="3" r="2" fill="none" stroke="#c8aa6e"/>
+      <circle cx="3" cy="16" r="2" fill="none" stroke="#c8aa6e"/>
+      <circle cx="9" cy="16" r="2" fill="none" stroke="#c8aa6e"/>
+      <path d="M6 5 V10 M4 10 Q3 14 3 14 M8 10 Q9 14 9 14" fill="none" stroke="#c8aa6e"/>
+      <text x="17" y="12">0</text>
+    </g>
+    <g transform="translate(88 0)">
+      <circle cx="5" cy="8" r="4" fill="#3776AB" stroke="#0a1410" stroke-width="1"/>
+      <text x="14" y="12">Python</text>
+    </g>
+  </g>
 </svg>

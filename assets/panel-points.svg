@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270" role="img" aria-label="House points awarded to recent repositories">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7e9b0"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#8a6f37"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#166b3d"/><stop offset="1" stop-color="#7fe3a8"/></linearGradient><radialGradient id="sealGlow"><stop offset="0" stop-color="#27ae60" stop-opacity="0.65"/><stop offset="1" stop-color="#27ae60" stop-opacity="0"/></radialGradient></defs>
+  <rect x="1" y="1" width="898" height="268" rx="12" fill="#0a1410" stroke="url(#gold)" stroke-width="1.5"/>
+  <path d="M16 40 V16 H40 M884 40 V16 H860 M16 230 V254 H40 M884 230 V254 H860" fill="none" stroke="#c8aa6e" stroke-opacity="0.5" stroke-width="1.5"/>
+  
+  <text x="450" y="54" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#93a89a">Recent grimoires, scored in effort rather than star-count sorcery.</text>
+    <path d="M56 68 l7 10 -7 10 -7 -10 Z" fill="none" stroke="#c8aa6e" stroke-opacity="0.75"/>
+  <path d="M56 73 l3.5 5 -3.5 5 -3.5 -5 Z" fill="#27ae60"/>
+  <text x="78" y="83" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#7fe3a8">health-companion</text>
+  <text x="560" y="83" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d7dfd8">for audacity</text>
+  <text x="836" y="83" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="700" fill="url(#gold)">+10</text>
+  <path d="M56 102 l7 10 -7 10 -7 -10 Z" fill="none" stroke="#c8aa6e" stroke-opacity="0.75"/>
+  <path d="M56 107 l3.5 5 -3.5 5 -3.5 -5 Z" fill="#27ae60"/>
+  <text x="78" y="117" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#7fe3a8">Overall-Ability</text>
+  <text x="560" y="117" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d7dfd8">for momentum</text>
+  <text x="836" y="117" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="700" fill="url(#gold)">+8</text>
+  <path d="M56 136 l7 10 -7 10 -7 -10 Z" fill="none" stroke="#c8aa6e" stroke-opacity="0.75"/>
+  <path d="M56 141 l3.5 5 -3.5 5 -3.5 -5 Z" fill="#27ae60"/>
+  <text x="78" y="151" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#7fe3a8">Face-Recognition-System</text>
+  <text x="560" y="151" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d7dfd8">for vision</text>
+  <text x="836" y="151" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="700" fill="url(#gold)">+8</text>
+  <path d="M56 170 l7 10 -7 10 -7 -10 Z" fill="none" stroke="#c8aa6e" stroke-opacity="0.75"/>
+  <path d="M56 175 l3.5 5 -3.5 5 -3.5 -5 Z" fill="#27ae60"/>
+  <text x="78" y="185" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#7fe3a8">MovieVault</text>
+  <text x="560" y="185" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d7dfd8">for polish</text>
+  <text x="836" y="185" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="700" fill="url(#gold)">+6</text>
+  <path d="M56 204 l7 10 -7 10 -7 -10 Z" fill="none" stroke="#c8aa6e" stroke-opacity="0.75"/>
+  <path d="M56 209 l3.5 5 -3.5 5 -3.5 -5 Z" fill="#27ae60"/>
+  <text x="78" y="219" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#7fe3a8">Chatting-App</text>
+  <text x="560" y="219" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d7dfd8">for persistence</text>
+  <text x="836" y="219" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="700" fill="url(#gold)">+6</text>
+  <text x="450" y="256" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" fill="#93a89a">The House Cup is awarded nightly, usually to whichever build compiles first.</text>
+</svg>

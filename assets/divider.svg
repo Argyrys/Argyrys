@@ -6,11 +6,20 @@
       <stop offset="1" stop-color="#c8aa6e" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <style>
+    .mote { animation: moteDrift 7s ease-in-out infinite; }
+    .mote-b { animation-delay: -2.3s; }
+    .mote-c { animation-delay: -4.6s; }
+    .gem { transform-box: fill-box; transform-origin: center; animation: gemPulse 4s ease-in-out infinite; }
+    @keyframes moteDrift { 0%,100% { transform: translateX(-18px); opacity: 0.25; } 50% { transform: translateX(18px); opacity: 0.95; } }
+    @keyframes gemPulse { 0%,100% { transform: scale(0.85) rotate(0deg); opacity: 0.75; } 50% { transform: scale(1.15) rotate(45deg); opacity: 1; } }
+  </style>
   <path d="M10 14 H270 M330 14 H590" stroke="url(#line)" stroke-width="1.5"/>
   <path d="M300 2 l11 12 -11 12 -11 -12 Z" fill="none" stroke="#c8aa6e" stroke-width="1.5"/>
-  <path d="M300 8 l5 6 -5 6 -5 -6 Z" fill="#27ae60" opacity="0.9"/>
+  <g class="gem"><path d="M300 8 l5 6 -5 6 -5 -6 Z" fill="#27ae60" opacity="0.9"/></g>
   <circle cx="272" cy="14" r="2.5" fill="#c8aa6e"/>
   <circle cx="328" cy="14" r="2.5" fill="#c8aa6e"/>
-  <circle cx="252" cy="14" r="1.5" fill="#c8aa6e" opacity="0.6"/>
-  <circle cx="348" cy="14" r="1.5" fill="#c8aa6e" opacity="0.6"/>
+  <g class="mote"><circle cx="252" cy="14" r="1.5" fill="#c8aa6e" opacity="0.6"/></g>
+  <g class="mote mote-b"><circle cx="348" cy="14" r="1.5" fill="#27ae60" opacity="0.6"/></g>
+  <g class="mote mote-c"><circle cx="210" cy="14" r="1.2" fill="#f7e9b0" opacity="0.5"/></g>
 </svg>

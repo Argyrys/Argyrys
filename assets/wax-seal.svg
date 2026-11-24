@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 90" width="90" height="90" role="img" aria-label="Animated emerald wax seal with the letter A">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7e9b0"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#8a6f37"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#166b3d"/><stop offset="1" stop-color="#7fe3a8"/></linearGradient><radialGradient id="sealGlow"><stop offset="0" stop-color="#27ae60" stop-opacity="0.65"/><stop offset="1" stop-color="#27ae60" stop-opacity="0"/></radialGradient></defs>
+  <style>
+    .seal-halo { transform-box: fill-box; transform-origin: center; animation: sealPulse 4.8s ease-in-out infinite; }
+    .seal-body { transform-box: fill-box; transform-origin: center; animation: sealBreathe 6s ease-in-out infinite; }
+    .seal-spark { animation: sealSpark 3.6s ease-in-out infinite; }
+    @keyframes sealPulse { 0%,100% { opacity: 0.45; transform: scale(0.9); } 50% { opacity: 1; transform: scale(1.12); } }
+    @keyframes sealBreathe { 0%,100% { transform: scale(1); } 50% { transform: scale(1.035); } }
+    @keyframes sealSpark { 0%,100% { opacity: 0.1; } 50% { opacity: 0.95; } }
+  </style>
+  <circle class="seal-halo" cx="45" cy="45" r="43" fill="url(#sealGlow)"/>
+  <g class="seal-body">
+    <circle cx="45" cy="45" r="32" fill="#0b2b1c" stroke="#c8aa6e" stroke-width="2"/>
+    <circle cx="45" cy="45" r="26" fill="none" stroke="#d4af37" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+    <text x="45" y="60" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700" fill="url(#gold)">A</text>
+    <path d="M45 10 l4 6 -4 6 -4 -6 Z" fill="#27ae60"/>
+  </g>
+  <g class="seal-spark"><circle cx="12" cy="24" r="1.6" fill="#f7e9b0"/></g>
+  <g class="seal-spark" style="animation-delay:-1.8s"><circle cx="78" cy="66" r="1.4" fill="#7fe3a8"/></g>
+</svg>

@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="assets/crest.png" alt="Argyrys Slytherin crest" width="130" />
+<img src="assets/crest.png" alt="Transparent Slytherin crest of Argyrys" width="130" />
 
 <br />
 
@@ -16,8 +16,21 @@
 <a href="https://github.com/Argyrys"><img src="https://img.shields.io/badge/SPECIALITY-PARSELTONGUE-27AE60?style=for-the-badge" alt="Speciality: Parseltongue" /></a>
 <a href="https://github.com/Argyrys?tab=repositories"><img src="https://img.shields.io/badge/GRIMOIRES-13-C8AA6E?style=for-the-badge" alt="13 repositories" /></a>
 
+<br /><br />
+
+<a href="#about"><img src="assets/nav-about.svg" alt="About" width="140" /></a>
+<a href="#stack"><img src="assets/nav-stack.svg" alt="Stack" width="140" /></a>
+<a href="#stats"><img src="assets/nav-stats.svg" alt="Stats" width="140" /></a>
+<a href="#work"><img src="assets/nav-work.svg" alt="Work" width="140" /></a>
+<a href="#links"><img src="assets/nav-links.svg" alt="Links" width="140" /></a>
+
+<br /><br />
+
+<img src="assets/wax-seal.svg" alt="Animated emerald wax seal bearing the letter A" width="68" />
+
 </div>
 
+<a id="about"></a>
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
@@ -34,6 +47,19 @@
 
 <div align="center">
 
+<img src="assets/h-brewing.svg" alt="Currently Brewing" width="600" />
+
+<br />
+
+<img src="assets/panel-brewing.svg" alt="Currently brewing: building a developer toolkit, learning systems design and clean code, open to collaborations and reviews" width="900" />
+
+</div>
+
+<a id="stack"></a>
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
 <img src="assets/h-craft.svg" alt="The Wand and The Craft" width="600" />
 
 <br />
@@ -46,8 +72,17 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" /></a>
 
+<br /><br />
+
+<img src="assets/h-spellbook.svg" alt="The Spellbook" width="600" />
+
+<br />
+
+<img src="assets/panel-spellbook.svg" alt="Spellbook skill levels: Kotlin, JavaScript, Python, C sharp, HTML and CSS" width="900" />
+
 </div>
 
+<a id="stats"></a>
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
@@ -77,10 +112,11 @@
 
 <br />
 
-<p>Ninety days of spellwork, charted by the enchanted quill.</p>
+<p>Thirty days of spellwork, charted by the enchanted quill.</p>
 
 </div>
 
+<a id="work"></a>
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
@@ -89,11 +125,11 @@
 
 <br />
 
-<a href="https://github.com/Argyrys/health-companion"><img src="assets/repo-health.svg" alt="health-companion — an AI health companion brewed for SIH 2026 (Kotlin)" width="780" /></a><br />
-<a href="https://github.com/Argyrys/Overall-Ability"><img src="assets/repo-overall.svg" alt="Overall-Ability — the newest spell, still warm from the forge (Kotlin)" width="780" /></a><br />
-<a href="https://github.com/Argyrys/Face-Recognition-System"><img src="assets/repo-face.svg" alt="Face-Recognition-System — vision magic and curious algorithms (Python)" width="780" /></a><br />
-<a href="https://github.com/Argyrys/MovieVault"><img src="assets/repo-movie.svg" alt="MovieVault — a vault of cinema, neatly enchanted (JavaScript)" width="780" /></a><br />
-<a href="https://github.com/Argyrys/Chatting-App"><img src="assets/repo-chat.svg" alt="Chatting-App — conversations carried by invisible owls (Kotlin)" width="780" /></a>
+<a href="https://github.com/Argyrys/health-companion"><img src="assets/repo-health.svg" alt="health-companion — an AI health companion brewed for SIH 2026 (Kotlin), 0 stars, 0 forks" width="780" /></a><br />
+<a href="https://github.com/Argyrys/Overall-Ability"><img src="assets/repo-overall.svg" alt="Overall-Ability — the newest spell, still warm from the forge (Kotlin), 0 stars, 0 forks" width="780" /></a><br />
+<a href="https://github.com/Argyrys/Face-Recognition-System"><img src="assets/repo-face.svg" alt="Face-Recognition-System — vision magic and curious algorithms (Python), 0 stars, 0 forks" width="780" /></a><br />
+<a href="https://github.com/Argyrys/MovieVault"><img src="assets/repo-movie.svg" alt="MovieVault — a vault of cinema, neatly enchanted (JavaScript), 0 stars, 0 forks" width="780" /></a><br />
+<a href="https://github.com/Argyrys/Chatting-App"><img src="assets/repo-chat.svg" alt="Chatting-App — conversations carried by invisible owls (Kotlin), 0 stars, 0 forks" width="780" /></a>
 
 <br /><br />
 
@@ -101,6 +137,31 @@
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img src="assets/h-points.svg" alt="House Points" width="600" />
+
+<br />
+
+<img src="assets/panel-points.svg" alt="House points awarded to recent repositories for audacity, momentum, vision, polish and persistence" width="900" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img src="assets/h-achievements.svg" alt="Honours and Trophies" width="600" />
+
+<br />
+
+<img src="assets/panel-achievements.svg" alt="Honours and trophies: 13 repositories, 5 languages, Slytherin house and GitHub owl post" width="900" />
+
+</div>
+
+<a id="links"></a>
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">

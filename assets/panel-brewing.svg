@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img" aria-label="Currently brewing: building, learning, and open to collaborations">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7e9b0"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#8a6f37"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#166b3d"/><stop offset="1" stop-color="#7fe3a8"/></linearGradient><radialGradient id="sealGlow"><stop offset="0" stop-color="#27ae60" stop-opacity="0.65"/><stop offset="1" stop-color="#27ae60" stop-opacity="0"/></radialGradient></defs>
+  <rect x="1" y="1" width="898" height="208" rx="12" fill="#0a1410" stroke="url(#gold)" stroke-width="1.5"/>
+  <path d="M16 40 V16 H40 M884 40 V16 H860 M16 170 V194 H40 M884 170 V194 H860" fill="none" stroke="#c8aa6e" stroke-opacity="0.5" stroke-width="1.5"/>
+  
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <g text-anchor="middle">
+      <circle cx="160" cy="62" r="17" fill="#123a25" stroke="#c8aa6e"/>
+      <path d="M154 68 l10 -16" stroke="#f7e9b0" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="166" cy="50" r="2.5" fill="#7fe3a8"/>
+      <text x="160" y="103" font-size="13" font-weight="700" letter-spacing="2" fill="#7fe3a8">BUILDING</text>
+      <text x="160" y="135" font-size="15" fill="#d7dfd8">A quieter, sharper</text>
+      <text x="160" y="158" font-size="15" fill="#d7dfd8">developer toolkit</text>
+    </g>
+    <g text-anchor="middle">
+      <circle cx="450" cy="62" r="17" fill="#123a25" stroke="#c8aa6e"/>
+      <path d="M442 55 h16 M442 61 h16 M442 67 h12" stroke="#f7e9b0" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="450" y="103" font-size="13" font-weight="700" letter-spacing="2" fill="#7fe3a8">LEARNING</text>
+      <text x="450" y="135" font-size="15" fill="#d7dfd8">Systems design and the</text>
+      <text x="450" y="158" font-size="15" fill="#d7dfd8">dark art of clean code</text>
+    </g>
+    <g text-anchor="middle">
+      <circle cx="740" cy="62" r="17" fill="#123a25" stroke="#c8aa6e"/>
+      <path d="M731 62 q9 -10 18 0 q-9 10 -18 0 Z" fill="none" stroke="#f7e9b0" stroke-width="1.6"/>
+      <path d="M749 62 l7 -4 v8 Z" fill="#d4af37"/>
+      <text x="740" y="103" font-size="13" font-weight="700" letter-spacing="2" fill="#7fe3a8">OPEN TO</text>
+      <text x="740" y="135" font-size="15" fill="#d7dfd8">Collaborations, reviews,</text>
+      <text x="740" y="158" font-size="15" fill="#d7dfd8">and clever chaos</text>
+    </g>
+    <path d="M300 62 H600" stroke="#c8aa6e" stroke-opacity="0.25" stroke-dasharray="3 5"/>
+    <text x="450" y="192" text-anchor="middle" font-size="12.5" fill="#93a89a" font-style="italic">Placeholders for now — the incantation can be rewritten at any time.</text>
+  </g>
+</svg>
