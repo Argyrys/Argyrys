@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" width="800" height="170" role="img" aria-label="Chamber of Secrets message">
+  <rect x="1" y="1" width="798" height="168" rx="10" fill="#0a1410" stroke="#c8aa6e" stroke-width="1.5"/>
+  <path d="M14 30 V14 H30 M786 30 V14 H770 M14 140 V156 H30 M786 140 V156 H770" fill="none" stroke="#c8aa6e" stroke-opacity="0.5" stroke-width="1.5"/>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#d7dfd8">
+    <text x="42" y="46" fill="#7fe3a8" font-style="italic">Ssss… You speak Parseltongue? Then the chamber is yours.</text>
+    <text x="42" y="76">You found the hidden room where ambitious ideas are brewed after midnight.</text>
+    <text x="42" y="104">Now go forth — and build something the Sorting Hat will remember.</text>
+  </g>
+  <path d="M60 124 H740" stroke="#c8aa6e" stroke-opacity="0.4"/>
+  <text x="400" y="149" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#d4af37">✦ It is our choices that show what we truly are, far more than our abilities. ✦</text>
+</svg>

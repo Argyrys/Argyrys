@@ -6,12 +6,11 @@
 
 <img src="assets/crest.svg" alt="Original Slytherin-inspired serpent crest" width="130" />
 
-<h2 style="color:#d4af37; margin:4px 0 2px 0;">Rajat Sharma <span style="color:#7fe3a8;">· @Argyrys</span></h2>
+<br />
 
-<p style="color:#c9d1c9; font-size:15px; margin:0 0 12px 0;">
-  <b>House Slytherin.</b> Keeper of the Code. Brewer of ambitious little ideas.<br />
-  Sorcery studied: Kotlin, JavaScript, Python &amp; C#.
-</p>
+<img src="assets/identity.svg" alt="Rajat Sharma, at Argyrys, House Slytherin, Keeper of the Code" width="760" />
+
+<br /><br />
 
 <a href="https://github.com/Argyrys"><img src="https://img.shields.io/badge/HOUSE-SLYTHERIN-1A472A?style=for-the-badge" alt="House: Slytherin" /></a>
 <a href="https://github.com/Argyrys"><img src="https://img.shields.io/badge/SPECIALITY-PARSELTONGUE-27AE60?style=for-the-badge" alt="Speciality: Parseltongue" /></a>
@@ -21,21 +20,13 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center" style="background-color:#0a1410; border:1px solid #c8aa6e; border-radius:12px; padding:22px;">
+<div align="center">
 
-<h2 style="color:#d4af37;">🪄 The Apprentice's Tale</h2>
+<img src="assets/h-apprentice.svg" alt="The Apprentice's Tale" width="600" />
 
-<p style="color:#d7dfd8; font-size:15px; line-height:1.65; max-width:760px;">
-  Sorted into Slytherin, armed with a laptop and a deeply unreasonable amount of curiosity.
-  I forge digital spells at the edge of Android, AI and the web — from an <b>AI health companion</b>
-  brewed for SIH 2026 to <b>face-recognition charms</b> and <b>chatting enchantments</b>.
-  When I'm not unmasking bugs, I'm plotting the next Grimoire to ship before the moon rises.
-</p>
+<br />
 
-<p style="color:#93a89a; font-size:13px;">
-  <b style="color:#7fe3a8;">Currently conjuring:</b> Kotlin apps · intelligent systems · clean interfaces<br />
-  <b style="color:#7fe3a8;">Known for:</b> turning “what if?” into “it's live” before the deadline
-</p>
+<img src="assets/panel-intro.svg" alt="Introduction to Rajat Sharma, a Slytherin developer building Android, AI and web projects" width="900" />
 
 </div>
 
@@ -43,9 +34,11 @@
 
 <div align="center">
 
-<h2 style="color:#d4af37;">⚔️ The Wand &amp; The Craft</h2>
+<img src="assets/h-craft.svg" alt="The Wand and The Craft" width="600" />
 
-<p style="color:#93a89a; font-size:13px;">Spells written in the following tongues — wand core: pure curiosity.</p>
+<br />
+
+<p>Spells written in the following tongues — wand core: pure curiosity.</p>
 
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" /></a>
@@ -57,30 +50,18 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center" style="background-color:#0a1410; border:1px solid #c8aa6e; border-radius:12px; padding:18px;">
+<div align="center">
 
-<h2 style="color:#d4af37;">🔮 The Oracle's Ledger</h2>
+<img src="assets/h-oracle.svg" alt="The Oracle's Ledger" width="600" />
+
+<br />
 
 <img src="https://github-stats-extended.vercel.app/api?username=Argyrys&amp;show_icons=true&amp;custom_title=The+Oracle%27s+Ledger&amp;bg_color=0a1410&amp;title_color=d4af37&amp;text_color=c9d1c9&amp;icon_color=27ae60&amp;border_color=c8aa6e" width="440" alt="Live GitHub statistics for Argyrys" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Argyrys&amp;layout=compact&amp;langs_count=5&amp;bg_color=0a1410&amp;title_color=d4af37&amp;text_color=c9d1c9&amp;border_color=c8aa6e" width="290" alt="Most used languages for Argyrys" />
 
-<p style="color:#93a89a; font-size:12px;"><i>The crystal ball refreshes itself. Patience, young wizard.</i></p>
+<br />
 
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<div align="center" style="background-color:#0a1410; border:1px solid #c8aa6e; border-radius:12px; padding:20px;">
-
-<h2 style="color:#d4af37;">📚 The Grimoire Shelf</h2>
-
-<p align="left" style="max-width:760px; margin:0 auto; color:#d7dfd8; line-height:1.9; font-size:14px;">
-  🦉 <a href="https://github.com/Argyrys/health-companion" style="color:#7fe3a8;"><b>health-companion</b></a> — an AI health companion brewed for SIH 2026 <i>(Kotlin)</i><br />
-  🦉 <a href="https://github.com/Argyrys/Overall-Ability" style="color:#7fe3a8;"><b>Overall-Ability</b></a> — the newest spell, still warm from the forge <i>(Kotlin)</i><br />
-  🦉 <a href="https://github.com/Argyrys/Face-Recognition-System" style="color:#7fe3a8;"><b>Face-Recognition-System</b></a> — vision magic and curious algorithms <i>(Python)</i><br />
-  🦉 <a href="https://github.com/Argyrys/MovieVault" style="color:#7fe3a8;"><b>MovieVault</b></a> — a vault of cinema, neatly enchanted <i>(JavaScript)</i><br />
-  🦉 <a href="https://github.com/Argyrys/Chatting-App" style="color:#7fe3a8;"><b>Chatting-App</b></a> — conversations carried by invisible owls <i>(Kotlin)</i>
-</p>
+<p>The crystal ball refreshes itself. Patience, young wizard.</p>
 
 </div>
 
@@ -88,9 +69,27 @@
 
 <div align="center">
 
-<h2 style="color:#d4af37;">🦉 Owl Post</h2>
+<img src="assets/h-grimoire.svg" alt="The Grimoire Shelf" width="600" />
 
-<p style="color:#93a89a; font-size:13px;">Send a scroll by GitHub — the owls know the way.</p>
+<br />
+
+<a href="https://github.com/Argyrys/health-companion"><img src="assets/repo-health.svg" alt="health-companion — an AI health companion brewed for SIH 2026 (Kotlin)" width="780" /></a><br />
+<a href="https://github.com/Argyrys/Overall-Ability"><img src="assets/repo-overall.svg" alt="Overall-Ability — the newest spell, still warm from the forge (Kotlin)" width="780" /></a><br />
+<a href="https://github.com/Argyrys/Face-Recognition-System"><img src="assets/repo-face.svg" alt="Face-Recognition-System — vision magic and curious algorithms (Python)" width="780" /></a><br />
+<a href="https://github.com/Argyrys/MovieVault"><img src="assets/repo-movie.svg" alt="MovieVault — a vault of cinema, neatly enchanted (JavaScript)" width="780" /></a><br />
+<a href="https://github.com/Argyrys/Chatting-App"><img src="assets/repo-chat.svg" alt="Chatting-App — conversations carried by invisible owls (Kotlin)" width="780" /></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img src="assets/h-owl.svg" alt="Owl Post" width="600" />
+
+<br />
+
+<p>Send a scroll by GitHub — the owls know the way.</p>
 
 <a href="https://github.com/Argyrys"><img src="https://img.shields.io/badge/GitHub-%40Argyrys-0A0A0A?style=for-the-badge&amp;logo=github" alt="GitHub profile: Argyrys" /></a>
 <a href="https://github.com/Argyrys?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13-1A472A?style=for-the-badge&amp;logo=github" alt="All repositories" /></a>
@@ -99,15 +98,10 @@
 </div>
 
 <details>
-<summary style="color:#d4af37; cursor:pointer;">🐍 Enter the Chamber of Secrets (click to open)</summary>
+<summary><img src="assets/h-chamber.svg" alt="Enter the Chamber of Secrets — click to open" width="600" /></summary>
 
-<div style="background-color:#0a1410; border:1px solid #c8aa6e; border-radius:8px; padding:16px; margin-top:10px;">
-  <p style="color:#d7dfd8; font-size:14px; line-height:1.6;">
-    <i>Ssss…</i> You speak Parseltongue? Then the chamber is yours.
-    You found the hidden room where ambitious ideas are brewed after midnight.
-    Now go forth — and build something the Sorting Hat will remember.
-  </p>
-  <p style="color:#7fe3a8; font-size:12px;">✦ “It is our choices that show what we truly are, far more than our abilities.” ✦</p>
+<div align="center">
+<img src="assets/panel-chamber.svg" alt="Chamber of Secrets message and Dumbledore quote" width="800" />
 </div>
 
 </details>
@@ -116,14 +110,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p style="color:#7f8f84; font-size:12px;">Forged with a wand, a little green fire, and far too much coffee. ✦</p>
+<p>Forged with a wand, a little green fire, and far too much coffee. ✦</p>
 
-</div>
-
-<div align="center" style="background-color:#0a1410;">
-<p style="color:#ff0000;">STYLE P TEST</p>
-<p><font color="#00ff00">FONT P TEST</font></p>
-<table bgcolor="#123456" width="400"><tr><td><font color="#ffcc00">TABLE TD TEST</font></td></tr></table>
-<h2 style="color:#ff00ff;"><font color="#00ffff">HEADING TEST</font></h2>
-<summary style="color:#ff0000;"><font color="#ff00ff">SUMMARY TEST</font></summary>
 </div>

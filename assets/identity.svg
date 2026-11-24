@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 96" width="760" height="96" role="img" aria-label="Rajat Sharma, at Argyrys, House Slytherin, Keeper of the Code">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7e9b0"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#8a6f37"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="94" rx="10" fill="#0a1410" stroke="#c8aa6e" stroke-width="1.5"/>
+  <text x="380" y="38" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" fill="url(#gold)">Rajat Sharma <tspan fill="#7fe3a8">· @Argyrys</tspan></text>
+  <text x="380" y="64" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#d7dfd8">House Slytherin · Keeper of the Code · Brewer of ambitious little ideas</text>
+  <text x="380" y="84" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#93a89a">Sorcery studied: Kotlin · JavaScript · Python · C#</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="600" height="60" role="img" aria-label="The Wand and The Craft">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7e9b0"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#8a6f37"/></linearGradient></defs>
+  <path d="M10 30 H160 M440 30 H590" stroke="#c8aa6e" stroke-opacity="0.65" stroke-width="1.5"/>
+  <path d="M170 30 l10 -6 M430 30 l-10 -6 M170 30 l10 6 M430 30 l-10 6" stroke="#c8aa6e" stroke-opacity="0.6"/>
+  <text x="300" y="39" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" letter-spacing="3" fill="url(#g)" stroke="#0a1410" stroke-width="8" paint-order="stroke">THE WAND &amp; THE CRAFT</text>
+  <path d="M300 48 l6 6 -6 6 -6 -6 Z" fill="#27ae60"/>
+</svg>
