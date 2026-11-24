@@ -98,7 +98,7 @@
 </div>
 
 <details>
-<summary><img src="assets/h-chamber.svg" alt="Enter the Chamber of Secrets — click to open" width="600" /></summary>
+<summary>🐍 Enter the Chamber of Secrets (click to open)</summary>
 
 <div align="center">
 <img src="assets/panel-chamber.svg" alt="Chamber of Secrets message and Dumbledore quote" width="800" />
