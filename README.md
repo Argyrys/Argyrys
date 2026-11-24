@@ -73,7 +73,7 @@
 
 <br />
 
-<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Argyrys&amp;bg_color=0a1410&amp;border_color=c8aa6e&amp;color=c9d1c9&amp;title_color=d4af37&amp;line=27ae60&amp;point=c8aa6e&amp;area=true&amp;area_color=27ae60&amp;hide_title=true&amp;days=90&amp;height=200&amp;radius=12" width="100%" alt="Live emerald activity chart for Argyrys" />
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Argyrys&amp;bg_color=0a1410&amp;border_color=c8aa6e&amp;color=c9d1c9&amp;title_color=d4af37&amp;line=27ae60&amp;point=c8aa6e&amp;area=true&amp;area_color=27ae60&amp;hide_title=true&amp;days=30&amp;grid=false&amp;height=200&amp;radius=12" width="100%" alt="Live emerald activity chart for Argyrys" />
 
 <br />
 
