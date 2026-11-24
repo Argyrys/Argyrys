@@ -69,6 +69,22 @@
 
 <div align="center">
 
+<img src="assets/h-activity.svg" alt="The Enchanted Activity Chart" width="600" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Argyrys&amp;bg_color=0a1410&amp;border_color=c8aa6e&amp;color=c9d1c9&amp;title_color=d4af37&amp;line=27ae60&amp;point=c8aa6e&amp;area=true&amp;area_color=27ae60&amp;hide_title=true&amp;days=90&amp;height=200&amp;radius=12" width="100%" alt="Live emerald activity chart for Argyrys" />
+
+<br />
+
+<p>Ninety days of spellwork, charted by the enchanted quill.</p>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
 <img src="assets/h-grimoire.svg" alt="The Grimoire Shelf" width="600" />
 
 <br />
@@ -78,6 +94,10 @@
 <a href="https://github.com/Argyrys/Face-Recognition-System"><img src="assets/repo-face.svg" alt="Face-Recognition-System — vision magic and curious algorithms (Python)" width="780" /></a><br />
 <a href="https://github.com/Argyrys/MovieVault"><img src="assets/repo-movie.svg" alt="MovieVault — a vault of cinema, neatly enchanted (JavaScript)" width="780" /></a><br />
 <a href="https://github.com/Argyrys/Chatting-App"><img src="assets/repo-chat.svg" alt="Chatting-App — conversations carried by invisible owls (Kotlin)" width="780" /></a>
+
+<br /><br />
+
+<a href="https://github.com/Argyrys?tab=repositories"><img src="assets/panel-library.svg" alt="The rest of the repository collection — all 13 grimoires" width="820" /></a>
 
 </div>
 

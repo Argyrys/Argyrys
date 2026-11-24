@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 250" width="820" height="250" role="img" aria-label="The rest of the repository collection: Matrix-Career, Python, AI-Cognitive-Games, WordJourney, Ai-Video-Generator, grievingsouls-GGH, Legal-Guide and Hackathon">
+  <rect x="1" y="1" width="818" height="248" rx="12" fill="#0a1410" stroke="#c8aa6e" stroke-width="1.5"/>
+  <path d="M16 34 V16 H34 M804 34 V16 H786 M16 216 V234 H34 M804 216 V234 H786" fill="none" stroke="#c8aa6e" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="410" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="3" fill="#d4af37">AND THE REST OF THE COLLECTION</text>
+  <path d="M70 54 H750" stroke="#c8aa6e" stroke-opacity="0.45"/>
+
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="15">
+    <text x="52" y="86"><tspan fill="#7fe3a8" font-weight="700">◆ Matrix-Career</tspan><tspan fill="#93a89a">   · JavaScript</tspan></text>
+    <text x="52" y="118"><tspan fill="#7fe3a8" font-weight="700">◆ Python</tspan><tspan fill="#93a89a">   · Python</tspan></text>
+    <text x="52" y="150"><tspan fill="#7fe3a8" font-weight="700">◆ AI-Cognitive-Games</tspan><tspan fill="#93a89a">   · Kotlin</tspan></text>
+    <text x="52" y="182"><tspan fill="#7fe3a8" font-weight="700">◆ WordJourney</tspan><tspan fill="#93a89a">   · C#</tspan></text>
+
+    <text x="440" y="86"><tspan fill="#7fe3a8" font-weight="700">◆ Ai-Video-Generator</tspan><tspan fill="#93a89a">   · Kotlin</tspan></text>
+    <text x="440" y="118"><tspan fill="#7fe3a8" font-weight="700">◆ grievingsouls-GGH</tspan><tspan fill="#93a89a">   · HTML</tspan></text>
+    <text x="440" y="150"><tspan fill="#7fe3a8" font-weight="700">◆ Legal-Guide</tspan><tspan fill="#93a89a">   · JavaScript</tspan></text>
+    <text x="440" y="182"><tspan fill="#7fe3a8" font-weight="700">◆ Hackathon</tspan><tspan fill="#93a89a">   · JavaScript</tspan></text>
+  </g>
+
+  <text x="410" y="222" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#93a89a">ALL 13 GRIMOIRES — FOLLOW THE OWL TO THE FULL LIBRARY</text>
+</svg>
